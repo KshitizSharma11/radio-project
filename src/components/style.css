@@ -1,0 +1,21 @@
+#main{
+    background-image: url("../p1.jpg");
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+  height: 800px;
+  width:100%;
+ 
+
+}
+.example::after {
+  
+  position: absolute;
+  top: 80px;
+  white-space: pre;
+  right: 15px;
+  font-weight: bold;
+  text-align: right;
+  font-size: 30px;
+}
+
+
