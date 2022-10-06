@@ -39,7 +39,7 @@ class Player extends Component {
   
     render() {
       return (
-        <div class="h-screen bg-red-100">
+      
 	
 	<div class="flex justify-center pt-8 items-center h-30">
         <div >
@@ -59,7 +59,7 @@ class Player extends Component {
           </button>
           </div>
         </div>
-        </div>
+        
       );
     }
   }
